@@ -17,6 +17,7 @@ Experienced Software & AI Engineer in LLM, AI, ML, and Fullstack Solutions.
 
 <h1> Blog & Media: </h1>
 
+- Learning about Google: https://medium.com/@dimitarsdev/googles-future-3ac7d6d7123d
 - OpenAI DevDay: https://medium.com/@dimitarsdev/openai-devday-summary-3fca80108364
 - Self-awareness is the key to AGI: https://medium.com/@dimitarsdev/self-awareness-is-the-key-to-agi-f18d1cf758c9
 - Learning about Nvidia: https://medium.com/@dimitarsdev/nvidias-future-13bd4090ce64
