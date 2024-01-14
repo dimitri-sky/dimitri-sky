@@ -17,12 +17,7 @@ Experienced Software & AI Engineer in LLM, AI, ML, and Fullstack Solutions.
 
 <h1> Blog & Media: </h1>
 
-- Learning about Google: https://medium.com/@dimitarsdev/googles-future-3ac7d6d7123d
-- OpenAI DevDay: https://medium.com/@dimitarsdev/openai-devday-summary-3fca80108364
-- Self-awareness is the key to AGI: https://medium.com/@dimitarsdev/self-awareness-is-the-key-to-agi-f18d1cf758c9
-- Learning about Nvidia: https://medium.com/@dimitarsdev/nvidias-future-13bd4090ce64
-- AI/ML for Sales / A Practical Guide: https://medium.com/@dimitarsdev/ai-ml-for-sales-a-practical-guide-5050574243b9
-- AI to add $3.5 trillion to market: https://medium.com/@dimitarsdev/ai-to-add-3-5-trillion-to-market-6e9261f0879a
+- Blog: https://medium.com/@dimitarsdev
 - Instagram: https://instagram.com/aishaaiofficial
 - AI Video: https://youtu.be/KpJlT7HdhSk
 - Hugging Face: https://huggingface.co/dimitars
