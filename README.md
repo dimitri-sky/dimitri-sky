@@ -19,7 +19,7 @@ Experienced Software & AI Engineer in LLM, AI, ML, and Fullstack Solutions.
 
 - Blog: https://medium.com/@dimitarsdev
 - Instagram: https://instagram.com/aishaaiofficial
-- YouTube: https://youtu.be/KpJlT7HdhSk
+- YouTube: https://www.youtube.com/@discotimewithagi
 - Hugging Face: https://huggingface.co/dimitars
 
 <h1> Joke: </h1>
