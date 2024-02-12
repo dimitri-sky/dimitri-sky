@@ -12,7 +12,7 @@ Experienced Software & AI Engineer in LLM, AI, ML, and Fullstack Solutions.
 - almightycandle.com (Team Lead): https://almightycandle.com/ Repo: https://github.com/dimitri-sky/AlCaFlask <br>
 - Chappy AI (Solo): https://chappyai.streamlit.app/ Repo: https://github.com/dimitri-sky/ChappyAI <br>
 (Might be down due to Pinecone's free tier)
-- codcsclub.com (Team Member): https://codcsclub.com Repo: https://github.com/cod-cs-club/codcsclub <br>
+- CSC: https://github.com/cod-cs-club/codcsclub <br>
 (CSC 45+ GitHub members: https://github.com/cod-cs-club, CSC 450+ Discord members: https://discord.gg/uzBEgApK9K)
 
 <h1> Blog & Media: </h1>
