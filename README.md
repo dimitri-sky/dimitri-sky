@@ -1,6 +1,6 @@
 <h1> 👋 Hi there, visit <a href="https://dimitars.com">dimitars.com</a> </h1>
 
-Experienced Software & AI Engineer in LLM, AI, ML, and Fullstack Solutions. 
+Experienced Software & AI Engineer in LLMs, AI, ML, and Fullstack Solutions. 
 
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
 <b>ML:</b> RNNs, CNNs, Transformers, RLHF, and other ML solutions. <br>
