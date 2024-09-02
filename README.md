@@ -2,7 +2,7 @@
 
 LLMs, AI, ML, and Fullstack.
 
-Experience and interests:<br>
+Interests:<br>
 
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
 <b>ML:</b> RNNs, CNNs, Transformers, RLHF, and other ML solutions. <br>
