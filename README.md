@@ -1,6 +1,6 @@
 <h1> 👋 Hi there, visit <a href="https://dimitars.com">dimitars.com</a> </h1>
 
-LLMs, AI, ML, and Fullstack Solutions. 
+LLMs, AI, ML, and Fullstack.
 
 Experience and interests:
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
