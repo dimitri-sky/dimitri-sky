@@ -1,4 +1,4 @@
-<h1> 👋 Hi there, visit <a href="https://dimitars.com">dimitars.com</a> </h1>
+<h1> 👋 Hi there </h1>
 
 LLMs, AI, ML, and Fullstack.
 
