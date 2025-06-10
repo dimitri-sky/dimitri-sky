@@ -1,7 +1,3 @@
-<h1> 👋 Hi there </h1>
-
-LLMs, AI, ML, and Fullstack.
-
 Created:<br>
 
 <b>Aware AI Labs:</b>  https://awareailabs.com <br>
@@ -10,7 +6,6 @@ Created:<br>
 <b>Whale VCs:</b>  https://whalevcs.com <br>
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
-
 
 Interests:<br>
 
