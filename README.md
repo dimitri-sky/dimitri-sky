@@ -7,7 +7,7 @@
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
 
-Interests:<br>
+<h1>Interests: </h1>
 
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
 <b>ML:</b> RNNs, CNNs, Transformers, RLHF, and other ML solutions. <br>
