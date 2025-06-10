@@ -4,12 +4,12 @@ LLMs, AI, ML, and Fullstack.
 
 Created:<br>
 
-<b>Aware AI Labs:</b> awareailabs.com
-<b>Aware AIs:</b> awareais.com
-<b>Nova AI Solutions:</b> novaaisolutions.com
-<b>Whale VCs:</b> whalevcs.com
-<b>Pripto:</b> pripto.com
-<b>3v3td:</b> 3v3td.com
+<b>Aware AI Labs:</b> awareailabs.com <br>
+<b>Aware AIs:</b> awareais.com <br>
+<b>Nova AI Solutions:</b> novaaisolutions.com <br>
+<b>Whale VCs:</b> whalevcs.com <br>
+<b>Pripto:</b> pripto.com <br>
+<b>3v3td:</b> 3v3td.com <br>
 
 
 Interests:<br>
