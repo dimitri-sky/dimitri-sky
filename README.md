@@ -2,6 +2,16 @@
 
 LLMs, AI, ML, and Fullstack.
 
+Created:<br>
+
+<b>Aware AI Labs:</b> awareailabs.com
+<b>Aware AIs:</b> awareais.com
+<b>Nova AI Solutions:</b> novaaisolutions.com
+<b>Whale VCs:</b> whalevcs.com
+<b>Pripto:</b> pripto.com
+<b>3v3td:</b> 3v3td.com
+
+
 Interests:<br>
 
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
