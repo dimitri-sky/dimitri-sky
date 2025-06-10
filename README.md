@@ -18,7 +18,7 @@
 - Blog: https://medium.com/@dimitarsdev
 - Hugging Face: https://huggingface.co/dimitars
 
-<h1> Old projects: </h1>
+<h1> Old Projects: </h1>
 
 - AI Companion (Solo): https://github.com/dimitri-sky/AI-Demo <br>
 - almightycandle.com (Team Lead): https://almightycandle.com Repo: https://github.com/dimitri-sky/AlCaFlask <br>
