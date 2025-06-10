@@ -13,7 +13,12 @@
 <b>ML:</b> RNNs, CNNs, Transformers, RLHF, and other ML solutions. <br>
 <b>Fullstack:</b> Front-end (Next.js, React), Back-end (Python, Java), Databases, API Development and Integration, Cloud. <br>
 
-<h1> Some projects: </h1>
+<h1> Blog & Media: </h1>
+
+- Blog: https://medium.com/@dimitarsdev
+- Hugging Face: https://huggingface.co/dimitars
+
+<h1> Old projects: </h1>
 
 - AI Companion (Solo): https://github.com/dimitri-sky/AI-Demo <br>
 - almightycandle.com (Team Lead): https://almightycandle.com Repo: https://github.com/dimitri-sky/AlCaFlask <br>
@@ -21,11 +26,6 @@
 (Might be down due to Pinecone's free tier)
 - CSC: https://github.com/cod-cs-club/codcsclub <br>
 (CSC 45+ GitHub members: https://github.com/cod-cs-club, CSC 450+ Discord members: https://discord.gg/uzBEgApK9K)
-
-<h1> Blog & Media: </h1>
-
-- Blog: https://medium.com/@dimitarsdev
-- Hugging Face: https://huggingface.co/dimitars
 
 <h1> Joke: </h1>
 
