@@ -9,11 +9,11 @@
 
 <h1>Featured On: </h1>
 <div align="center">
-  
+
+[![Business Insider](https://img.shields.io/badge/Featured%20on-Business%20Insider-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805)
 [![Street Insider](https://img.shields.io/badge/Featured%20on-Street%20Insider-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html)
 [![Associated Press](https://img.shields.io/badge/Featured%20on-Associated%20Press-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://apnews.com/press-release/marketersmedia/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-24c46c024f404e5d3713636d6073e23c)
 [![Benzinga](https://img.shields.io/badge/Featured%20on-Benzinga-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://www.benzinga.com/pressreleases/25/06/45896914/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent)
-[![Business Insider](https://img.shields.io/badge/Featured%20on-Business%20Insider-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805)
 [![Inter Press Service](https://img.shields.io/badge/Featured%20on-Inter%20Press%20Service-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://ipsnews.net/business/2025/06/12/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent/)
 
 </div>
