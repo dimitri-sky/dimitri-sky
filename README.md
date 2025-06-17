@@ -7,29 +7,57 @@
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
 
-## 📰 AS SEEN ON
+## 🏆 As Featured On
 
 <div align="center">
   
-<a href="https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html" target="_blank">
-  <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/a19f9a6e-32d1-4386-6cff-29d3705e4400/public" alt="Street Insider" height="40" style="margin: 0 10px 10px 0;">
-</a>
-<a href="https://apnews.com/press-release/marketersmedia/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-24c46c024f404e5d3713636d6073e23c" target="_blank">
-  <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/882fcdbd-c12d-4730-abbb-e3e6c2951d00/public" alt="Associated Press" height="40" style="margin: 0 10px 10px 0;">
-</a>
-<a href="https://www.benzinga.com/pressreleases/25/06/45896914/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent" target="_blank">
-  <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/ec881fff-1d06-43da-18e1-4460b8922c00/public" alt="Benzinga" height="40" style="margin: 0 10px 10px 0;">
-</a>
-<a href="https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805" target="_blank">
-  <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/ea272993-a87c-4e0e-48bd-6ca4d5b1ea00/public" alt="Business Insider" height="40" style="margin: 0 10px 10px 0;">
-</a>
-<a href="https://ipsnews.net/business/2025/06/12/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent/" target="_blank">
-  <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/59dc7c21-d0f5-4e74-336b-5094a1dad600/public" alt="Inter Press Service" height="40" style="margin: 0 10px 10px 0;">
-</a>
+[![Street Insider](https://img.shields.io/badge/Featured%20on-Street%20Insider-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html)
+[![Associated Press](https://img.shields.io/badge/Featured%20on-Associated%20Press-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://apnews.com/press-release/marketersmedia/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-24c46c024f404e5d3713636d6073e23c)
+[![Benzinga](https://img.shields.io/badge/Featured%20on-Benzinga-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://www.benzinga.com/pressreleases/25/06/45896914/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent)
+[![Business Insider](https://img.shields.io/badge/Featured%20on-Business%20Insider-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805)
+[![Inter Press Service](https://img.shields.io/badge/Featured%20on-Inter%20Press%20Service-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://ipsnews.net/business/2025/06/12/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent/)
+
+</div>
 
 ---
 
-<sub>✅ Verified by [BrandPush.co](https://www.brandpush.co)</sub>
+### Alternative Version with Logo Images:
+
+<div align="center">
+  <h2>🏆 As Featured On</h2>
+  
+  <a href="https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html" target="_blank">
+    <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/a19f9a6e-32d1-4386-6cff-29d3705e4400/public" alt="Street Insider" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://apnews.com/press-release/marketersmedia/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-24c46c024f404e5d3713636d6073e23c" target="_blank">
+    <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/882fcdbd-c12d-4730-abbb-e3e6c2951d00/public" alt="Associated Press" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.benzinga.com/pressreleases/25/06/45896914/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent" target="_blank">
+    <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/ec881fff-1d06-43da-18e1-4460b8922c00/public" alt="Benzinga" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805" target="_blank">
+    <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/ea272993-a87c-4e0e-48bd-6ca4d5b1ea00/public" alt="Business Insider" height="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ipsnews.net/business/2025/06/12/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent/" target="_blank">
+    <img src="https://www.brandpush.co/cdn-cgi/imagedelivery/gKm6BYVdHCj_SVQET_Msrw/59dc7c21-d0f5-4e74-336b-5094a1dad600/public" alt="Inter Press Service" height="50"/>
+  </a>
+  
+  <br/><br/>
+  <sub>Verified by <a href="https://www.brandpush.co">BrandPush.co</a></sub>
+</div>
+
+---
+
+### Simplest Table Version:
+
+<div align="center">
+
+## 🏆 As Featured On
+
+| [Street Insider](https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html) | [Associated Press](https://apnews.com/press-release/marketersmedia/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-24c46c024f404e5d3713636d6073e23c) | [Benzinga](https://www.benzinga.com/pressreleases/25/06/45896914/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent) | [Business Insider](https://markets.businessinsider.com/news/stocks/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent-1034815805) | [Inter Press Service](https://ipsnews.net/business/2025/06/12/aware-ai-labs-led-by-dimitri-stojanovski-reaches-self-improving-ai-research-milestone-seeks-talent/) |
+|---|---|---|---|---|
+
+<sub>Verified by [BrandPush.co](https://www.brandpush.co)</sub>
 
 </div>
 
