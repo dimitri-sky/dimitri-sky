@@ -8,7 +8,7 @@
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
 
-~~~
+<!--
 <h1>Featured On: </h1>
 <div align="center">
 
@@ -19,7 +19,7 @@
 [![Street Insider](https://img.shields.io/badge/Featured%20on-Street%20Insider-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==)](https://www.streetinsider.com/The+Financial+Capital/Aware+AI+Labs+led+by+Dimitri+Stojanovski+reaches+Self-Improving+AI+Research+Milestone%2C+Seeks+Talent/24927278.html)
 
 </div>
-~~~
+-->
 <h1>Interests: </h1>
 
 <b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
