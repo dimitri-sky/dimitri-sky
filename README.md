@@ -3,6 +3,8 @@
 <b>Aware Use:</b>  https://awareuse.com <br>
 <b>Aware AI Labs:</b>  https://awareailabs.com <br>
 <b>Aware AIs:</b>  https://awareais.com <br>
+<b>Aware Groups Hedge Fund:</b>  https://awaregroups.com <br>
+<b>AIGO:</b>  https://aiglobalobservatory.com <br>
 <b>Nova AI Solutions:</b>  https://novaaisolutions.com <br>
 <b>Whale VCs:</b>  https://whalevcs.com <br>
 <b>Pripto:</b>  https://pripto.com <br>
