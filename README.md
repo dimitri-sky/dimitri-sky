@@ -1,8 +1,7 @@
 <h1>Created: </h1>
 
-<b>Aware Use:</b>  https://awareuse.com 
-<a href="https://www.producthunt.com/products/aware-7?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-aware-9" target="_blank" rel="noopener noreferrer"><img alt="Aware - Computer Use AI | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1081745&amp;theme=light&amp;t=1771448425632"></a>
-Check it out on Product Hunt →</a>) <br>
+<b>Aware Use:</b>  https://awareuse.com <br>
+<a href="https://www.producthunt.com/products/aware-7?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-aware-9" target="_blank" rel="noopener noreferrer"><img alt="Aware - Computer Use AI | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1081745&amp;theme=light&amp;t=1771448425632"></a> <br>
 <b>Aware AI Labs:</b>  https://awareailabs.com <br>
 <b>Aware AIs:</b>  https://awareais.com <br>
 <b>Aware Groups Hedge Fund:</b>  https://awaregroups.com <br>
