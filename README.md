@@ -11,7 +11,16 @@ Check it out on Product Hunt →</a> <br>
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
 
-<!--
+<h1>Aware Use: </h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d"
+       alt="Aware Use"
+       width="100%" />
+</p>
+
+<!--![HBedQzKbUAM8h-C](https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d)
+
 <h1>Featured On: </h1>
 <div align="center">
 
