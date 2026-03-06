@@ -5,6 +5,7 @@ Check it out on Product Hunt →</a> <br>
 <b>Aware AI Labs:</b>  https://awareailabs.com <br>
 <b>Aware AIs:</b>  https://awareais.com <br>
 <b>Isaac Worlds:</b>  https://isaacworlds.com <br>
+<b>Bull and Hawk:</b>  https://bullandhawk.com <br>
 <b>Aware Groups Hedge Fund:</b>  https://awaregroups.com <br>
 <b>AIGO:</b>  https://aiglobalobservatory.com <br>
 <b>Nova AI Solutions:</b>  https://novaaisolutions.com <br>
