@@ -8,10 +8,13 @@ Check it out on Product Hunt →</a> <br>
 <b>Bull and Hawk:</b>  https://bullandhawk.com <br>
 <b>Aware Groups Hedge Fund:</b>  https://awaregroups.com <br>
 <b>AIGO:</b>  https://aiglobalobservatory.com <br>
-<b>Nova AI Solutions:</b>  https://novaaisolutions.com <br>
+<b>Public Topic:</b>  https://publictopic.com <br>
+<b>Soul Armor:</b>  https://soularmor.lovable.app.com <br>
+<b>New Age Pictures:</b>  https://newagepictures.lovable.app.com <br>
 <b>Whale VCs:</b>  https://whalevcs.com <br>
 <b>Pripto:</b>  https://pripto.com <br>
 <b>3v3td:</b>  https://3v3td.com <br>
+<b>Nova AI Solutions:</b>  https://novaaisolutions.com <br>
 
 <h1>Aware Use: </h1>
 
