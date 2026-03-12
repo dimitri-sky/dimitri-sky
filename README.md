@@ -1,31 +1,24 @@
-<h1>
-Created:
-<span style="float:right; font-size:0;">
-<a href="https://x.com/dimitriatx">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
-width="18" height="18"
-style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
-</a>
-
-<a href="https://www.linkedin.com/in/dimitarstojanovski/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-width="18" height="18"
-style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
-</a>
-
-<a href="https://medium.com/@dimitarsdev">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
-width="18" height="18"
-style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
-</a>
-
-<a href="https://huggingface.co/dimitars">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg"
-width="18" height="18"
-style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
-</a>
-</span>
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <h1>Created:</h1>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://x.com/dimitriatx" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#808080; margin-left:8px;" aria-label="X">
+        <img src="https://cdn.simpleicons.org/x/808080" alt="X" width="18" height="18" />
+      </a>
+      <a href="https://www.linkedin.com/in/dimitarstojanovski/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#808080; margin-left:8px;" aria-label="LinkedIn">
+        <img src="https://cdn.simpleicons.org/linkedin/808080" alt="LinkedIn" width="18" height="18" />
+      </a>
+      <a href="https://medium.com/@dimitarsdev" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#808080; margin-left:8px;" aria-label="Medium">
+        <img src="https://cdn.simpleicons.org/medium/808080" alt="Medium" width="18" height="18" />
+      </a>
+      <a href="https://huggingface.co/dimitars" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#808080; margin-left:8px;" aria-label="Hugging Face">
+        <img src="https://cdn.simpleicons.org/huggingface/808080" alt="Hugging Face" width="18" height="18" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <b>Aware Use:</b>  https://awareuse.com | <a href="https://www.producthunt.com/products/aware-7?embed=true&amp;utm_source=embed&amp;utm_medium=post_embed" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 4px; margin-top: 12px; padding: 8px 16px; background: rgb(255, 97, 84); color: rgb(255, 255, 255); text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">
 Check it out on Product Hunt →</a> <br>
