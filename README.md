@@ -2,16 +2,27 @@
 Created:
 <span style="float:right; font-size:0;">
 <a href="https://x.com/dimitriatx">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="18" height="18" style="margin-left:10px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+width="18" height="18"
+style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
 </a>
+
 <a href="https://www.linkedin.com/in/dimitarstojanovski/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" height="18" style="margin-left:10px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+width="18" height="18"
+style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
 </a>
+
 <a href="https://medium.com/@dimitarsdev">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="18" height="18" style="margin-left:10px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
+width="18" height="18"
+style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
 </a>
+
 <a href="https://huggingface.co/dimitars">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="18" height="18" style="margin-left:10px;">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg"
+width="18" height="18"
+style="margin-left:10px; filter: grayscale(100%) brightness(0.6);">
 </a>
 </span>
 </h1>
