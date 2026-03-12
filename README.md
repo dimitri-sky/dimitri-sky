@@ -1,27 +1,20 @@
-<h1>Connect</h1>
-
-<p align="left">
+<h1>
+Created:
+<span style="float:right; font-size:0;">
 <a href="https://x.com/dimitriatx">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="18" height="18" style="margin-left:10px;">
 </a>
-&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/dimitarstojanovski/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" height="18" style="margin-left:10px;">
 </a>
-&nbsp;&nbsp;
-
 <a href="https://medium.com/@dimitarsdev">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="28" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="18" height="18" style="margin-left:10px;">
 </a>
-&nbsp;&nbsp;
-
 <a href="https://huggingface.co/dimitars">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="28" height="28"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" width="18" height="18" style="margin-left:10px;">
 </a>
-</p>
-
-<h1>Created: </h1>
+</span>
+</h1>
 
 <b>Aware Use:</b>  https://awareuse.com | <a href="https://www.producthunt.com/products/aware-7?embed=true&amp;utm_source=embed&amp;utm_medium=post_embed" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 4px; margin-top: 12px; padding: 8px 16px; background: rgb(255, 97, 84); color: rgb(255, 255, 255); text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: 600;">
 Check it out on Product Hunt →</a> <br>
