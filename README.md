@@ -44,12 +44,14 @@ Check it out on Product Hunt →</a> <br>
 <b>Fullstack:</b> Front-end (Next.js, React), Back-end (Python, Java), Databases, API Development and Integration, Cloud. <br>
 <b>Game Dev, Crypto, Creative Production</b> <br>
 
-<h1> Blog & Media: </h1>
+<h1>Media: </h1>
 
+- X: https://x.com/dimitriatx
+- LinkedIn: https://www.linkedin.com/in/dimitarstojanovski/
 - Blog: https://medium.com/@dimitarsdev
 - Hugging Face: https://huggingface.co/dimitars
 
-<h1> Old Projects: </h1>
+<h1>Old Projects: </h1>
 
 - AI Companion (Solo): https://github.com/dimitri-sky/AI-Demo <br>
 - almightycandle.com (Team Lead): https://almightycandle.com Repo: https://github.com/dimitri-sky/AlCaFlask <br>
