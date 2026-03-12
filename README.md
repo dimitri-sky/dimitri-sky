@@ -1,10 +1,18 @@
 <h1 align="left">
   Created:
   <span style="float:right;">
-    <a href="https://x.com/dimitriatx"><img src="https://cdn.simpleicons.org/x/808080" alt="X" width="18" height="18" /></a>
-    <a href="https://www.linkedin.com/in/dimitarstojanovski/"><img src="https://cdn.simpleicons.org/linkedin/808080" alt="LinkedIn" width="18" height="18" /></a>
-    <a href="https://medium.com/@dimitarsdev"><img src="https://cdn.simpleicons.org/medium/808080" alt="Medium" width="18" height="18" /></a>
-    <a href="https://huggingface.co/dimitars"><img src="https://cdn.simpleicons.org/huggingface/808080" alt="Hugging Face" width="18" height="18" /></a>
+    <a href="https://x.com/dimitriatx">
+      <img src="https://cdn.simpleicons.org/x/808080" alt="X" width="18" height="18" />
+    </a>
+    <a href="https://www.linkedin.com/in/dimitarstojanovski/">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" />
+    </a>
+    <a href="https://medium.com/@dimitarsdev">
+      <img src="https://cdn.simpleicons.org/medium/808080" alt="Medium" width="18" height="18" />
+    </a>
+    <a href="https://huggingface.co/dimitars">
+      <img src="https://cdn.simpleicons.org/huggingface/808080" alt="Hugging Face" width="18" height="18" />
+    </a>
   </span>
 </h1>
 
