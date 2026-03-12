@@ -1,17 +1,33 @@
 <h1 align="left">
   Created:
   <span style="float:right;">
-    <a href="https://x.com/dimitriatx">
-      <img src="https://cdn.simpleicons.org/x/808080" alt="X" width="18" height="18" />
+    <a href="https://x.com/dimitriatx" aria-label="X" style="margin-left:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 4l16 16"/>
+        <path d="M20 4L4 20"/>
+      </svg>
     </a>
-    <a href="https://www.linkedin.com/in/dimitarstojanovski/">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="18" height="18" />
+    <a href="https://www.linkedin.com/in/dimitarstojanovski/" aria-label="LinkedIn" style="margin-left:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/>
+        <rect width="4" height="12" x="2" y="9"/>
+        <circle cx="4" cy="4" r="2"/>
+      </svg>
     </a>
-    <a href="https://medium.com/@dimitarsdev">
-      <img src="https://cdn.simpleicons.org/medium/808080" alt="Medium" width="18" height="18" />
+    <a href="https://medium.com/@dimitarsdev" aria-label="Medium" style="margin-left:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="6" cy="12" r="4"/>
+        <ellipse cx="14" cy="12" rx="2" ry="5"/>
+        <ellipse cx="19" cy="12" rx="1" ry="6"/>
+      </svg>
     </a>
-    <a href="https://huggingface.co/dimitars">
-      <img src="https://cdn.simpleicons.org/huggingface/808080" alt="Hugging Face" width="18" height="18" />
+    <a href="https://huggingface.co/dimitars" aria-label="Hugging Face" style="margin-left:8px;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"/>
+        <path d="M8 15s1.5 2 4 2 4-2 4-2"/>
+        <path d="M9 10h.01"/>
+        <path d="M15 10h.01"/>
+      </svg>
     </a>
   </span>
 </h1>
