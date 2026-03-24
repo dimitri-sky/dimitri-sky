@@ -46,6 +46,8 @@ Check it out on Product Hunt →</a> <br>
 
 <h1>Media: </h1>
 
+- Personal: https://www.dimitars.com/
+- X: https://x.com/dimitriatx
 - LinkedIn: https://www.linkedin.com/in/dimitarstojanovski/
 - Blog: https://medium.com/@dimitarsdev
 - Hugging Face: https://huggingface.co/dimitars
