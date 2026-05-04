@@ -19,12 +19,12 @@ Check it out on Product Hunt →</a> <br>
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" alt="aware_ai_labs_chip_design_aware_cortex_1"
-        src="https://github.com/user-attachments/assets/4dfaf39e-b473-4772-9b88-3c73e172e5c6" />
-    </td>
-    <td width="50%" align="center">
       <img width="100%" alt="aware_ai_labs_multimodal_model2"
         src="https://github.com/user-attachments/assets/cd808c21-091c-41a2-9bfc-fed570a8aa39" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" alt="aware_ai_labs_chip_design_aware_cortex_1"
+        src="https://github.com/user-attachments/assets/4dfaf39e-b473-4772-9b88-3c73e172e5c6" />
     </td>
   </tr>
   <tr><td colspan="2" height="12"></td></tr>
