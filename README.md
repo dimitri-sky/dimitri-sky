@@ -18,11 +18,29 @@ Check it out on Product Hunt →</a> <br>
 
 <h1>Aware Use: </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d"
-       alt="Aware Use"
-       width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" alt="aware_ai_labs_chip_design_aware_cortex_1"
+        src="https://github.com/user-attachments/assets/4dfaf39e-b473-4772-9b88-3c73e172e5c6" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" alt="aware_ai_labs_multimodal_model2"
+        src="https://github.com/user-attachments/assets/cd808c21-091c-41a2-9bfc-fed570a8aa39" />
+    </td>
+  </tr>
+  <tr><td colspan="2" height="12"></td></tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" alt="aware-use-illu"
+        src="https://github.com/user-attachments/assets/8365d0c7-8783-4212-8949-0ab776c7abe1" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" alt="bnh-illu"
+        src="https://github.com/user-attachments/assets/7571c669-a2ef-4ce7-88bb-99634d373427" />
+    </td>
+  </tr>
+</table>
 
 <!--![HBedQzKbUAM8h-C](https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d)
 
