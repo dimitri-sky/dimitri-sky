@@ -16,8 +16,6 @@ Check it out on Product Hunt →</a> <br>
 <b>3v3td:</b>  https://3v3td.com <br>
 <b>Nova AI Solutions:</b>  https://novaaisolutions.com <br>
 
-<h1>Aware Use: </h1>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -33,15 +31,14 @@ Check it out on Product Hunt →</a> <br>
   <tr>
     <td width="50%" align="center">
       <img width="100%" alt="aware-use-illu"
-        src="https://github.com/user-attachments/assets/8365d0c7-8783-4212-8949-0ab776c7abe1" />
+        src="https://github.com/user-attachments/assets/7bbdb3a6-52da-4416-b5c9-8b767cea17aa" />
     </td>
     <td width="50%" align="center">
       <img width="100%" alt="bnh-illu"
-        src="https://github.com/user-attachments/assets/7571c669-a2ef-4ce7-88bb-99634d373427" />
+        src="https://github.com/user-attachments/assets/a2adcc6b-869a-42cb-bbcd-7c51f394ac2a" />
     </td>
   </tr>
 </table>
-
 <!--![HBedQzKbUAM8h-C](https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d)
 
 <h1>Featured On: </h1>
