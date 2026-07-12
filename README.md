@@ -40,10 +40,23 @@ Check it out on Product Hunt →</a> <br>
   </tr>
 </table>
 
-<h1>Papers: </h1>
+<h1>Papers:</h1>
 
-<b>Fast-Weight Memory Layers Improve Small Language Models at Matched Parameters and Compute</b> — <a href="https://github.com/user-attachments/files/29946320/stojanovski2026-fast-weight-memory-lm.pdf">PDF</a> <br>
-<b>Bull and Hawk: AI Trading Performance Review</b> — <a href="https://github.com/user-attachments/files/29946321/Bull-and-Hawk-AI-Trading-Performance-Review.pdf">PDF</a> <br>
+<p>
+  <a href="https://github.com/user-attachments/files/29946320/stojanovski2026-fast-weight-memory-lm.pdf">
+    <b>Fast-Weight Memory Layers Improve Small Language Models at Matched Parameters and Compute</b>
+  </a>
+  <br>
+  <sub>Dimitar Stojanovski · Aware AI Labs · July 2026 · PDF</sub>
+</p>
+
+<p>
+  <a href="https://github.com/user-attachments/files/29946321/Bull-and-Hawk-AI-Trading-Performance-Review.pdf">
+    <b>Bull &amp; Hawk — AI Trading Performance Review</b>
+  </a>
+  <br>
+  <sub>Production Performance Analysis · July 2026 · PDF</sub>
+</p>
 
 <!--![HBedQzKbUAM8h-C](https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d)
 
