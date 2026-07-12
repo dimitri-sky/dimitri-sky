@@ -47,7 +47,7 @@ Check it out on Product Hunt →</a> <br>
     <b>Fast-Weight Memory Layers Improve Small Language Models at Matched Parameters and Compute</b>
   </a>
   <br>
-  <sub>Dimitar Stojanovski · Aware AI Labs · July 2026 · PDF</sub>
+  <sub>Dimitar Stojanovski · Aware AI Labs · PDF</sub>
 </p>
 
 <p>
@@ -55,7 +55,7 @@ Check it out on Product Hunt →</a> <br>
     <b>Bull &amp; Hawk — AI Trading Performance Review</b>
   </a>
   <br>
-  <sub>Production Performance Analysis · July 2026 · PDF</sub>
+  <sub>Production Performance Analysis · PDF</sub>
 </p>
 
 <!--![HBedQzKbUAM8h-C](https://github.com/user-attachments/assets/56cf0418-dd24-431d-9fd9-b3027e51305d)
