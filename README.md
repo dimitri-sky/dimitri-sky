@@ -1,21 +1,26 @@
-# Created
+<h1>Created:</h1>
 
-| Project | Link |
-|---|---|
-| **Aware Use** | [awareuse.com](https://awareuse.com) · [Product Hunt](https://www.producthunt.com/products/aware-7) |
-| **Aware AI Labs** | [awareailabs.com](https://awareailabs.com) |
-| **Aware AIs** | [awareais.com](https://awareais.com) |
-| **Isaac Worlds** | [isaacworlds.com](https://isaacworlds.com) |
-| **Bull & Hawk** | [bullandhawk.com](https://bullandhawk.com) |
-| **Aware Groups Hedge Fund** | [awaregroups.com](https://awaregroups.com) |
-| **AI Global Observatory** | [aiglobalobservatory.com](https://aiglobalobservatory.com) |
-| **Public Topic** | [publictopic.com](https://publictopic.com) |
-| **Soul Armor** | [soularmor.lovable.app](https://soularmor.lovable.app) |
-| **New Age Pictures** | [newagepictures.lovable.app](https://newagepictures.lovable.app) |
-| **Whale VCs** | [whalevcs.com](https://whalevcs.com) |
-| **Pripto** | [pripto.com](https://pripto.com) |
-| **3v3td** | [3v3td.com](https://3v3td.com) |
-| **Nova AI Solutions** | [novaaisolutions.com](https://novaaisolutions.com) |
+<b>Aware Use:</b> https://awareuse.com |
+<a href="https://www.producthunt.com/products/aware-7?embed=true&amp;utm_source=embed&amp;utm_medium=post_embed">
+  Check it out on Product Hunt →
+</a>
+<br>
+
+<b>Aware AI Labs:</b> https://awareailabs.com <br>
+<b>Aware AIs:</b> https://awareais.com <br>
+<b>Isaac Worlds:</b> https://isaacworlds.com <br>
+<b>Bull and Hawk:</b> https://bullandhawk.com <br>
+<b>Aware Groups Hedge Fund:</b> https://awaregroups.com <br>
+<b>AIGO:</b> https://aiglobalobservatory.com <br>
+<b>Public Topic:</b> https://publictopic.com <br>
+<b>Soul Armor:</b> https://soularmor.lovable.app.com <br>
+<b>New Age Pictures:</b> https://newagepictures.lovable.app.com <br>
+<b>Whale VCs:</b> https://whalevcs.com <br>
+<b>Pripto:</b> https://pripto.com <br>
+<b>3v3td:</b> https://3v3td.com <br>
+<b>Nova AI Solutions:</b> https://novaaisolutions.com <br>
+
+<br>
 
 <table width="100%">
   <tr>
@@ -34,6 +39,11 @@
       />
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2" height="12"></td>
+  </tr>
+
   <tr>
     <td width="50%" align="center">
       <img
@@ -52,42 +62,54 @@
   </tr>
 </table>
 
-# Research and Reports
+<h1>Papers:</h1>
 
-### Fast-Weight Memory Layers Improve Small Language Models at Matched Parameters and Compute
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/user-attachments/files/29946320/stojanovski2026-fast-weight-memory-lm.pdf">
+        <b>Fast-Weight Memory Layers Improve Small Language Models at Matched Parameters and Compute</b>
+      </a>
+      <br>
+      <sub>Aware AI Labs · July 2026</sub>
+    </td>
 
-Controlled comparison of Transformer and fast-weight memory architectures under matched parameters, data, and compute.
+    <td width="50%" valign="top">
+      <a href="https://github.com/user-attachments/files/29946321/Bull-and-Hawk-AI-Trading-Performance-Review.pdf">
+        <b>Bull &amp; Hawk: AI Trading Performance Review</b>
+      </a>
+      <br>
+      <sub>Production Data · July 2026</sub>
+    </td>
+  </tr>
+</table>
 
-[Read the paper →](https://github.com/user-attachments/files/29946320/stojanovski2026-fast-weight-memory-lm.pdf)
+<h1>Interests:</h1>
 
-### Bull & Hawk — AI Trading Performance Review
+<b>AI:</b> Fine-tuning, Prompt Engineering, Function Calling, RAG, Synthetic Data, Transformers, Attention Mechanisms, and Model Evaluation. <br>
+<b>ML:</b> RNNs, CNNs, Transformers, RLHF, and other ML solutions. <br>
+<b>Fullstack:</b> Front-end (Next.js, React), Back-end (Python, Java), Databases, API Development, Integration, and Cloud. <br>
+<b>Game Development, Crypto, and Creative Production</b> <br>
 
-Independent analysis of production trading picks, expected returns, ranking quality, asset performance, and reported portfolio growth.
+<h1>Media:</h1>
 
-[Read the report →](https://github.com/user-attachments/files/29946321/Bull-and-Hawk-AI-Trading-Performance-Review.pdf)
+- Personal: https://www.dimitars.com/
+- X: https://x.com/dimitriatx
+- LinkedIn: https://www.linkedin.com/in/dimitarstojanovski/
+- Blog: https://medium.com/@dimitarsdev
+- Hugging Face: https://huggingface.co/dimitars
 
-# Interests
+<h1>Old Projects:</h1>
 
-- **AI:** Fine-tuning, prompt engineering, function calling, RAG, synthetic data, Transformers, attention, and model evaluation
-- **Machine Learning:** RNNs, CNNs, Transformers, RLHF, and reinforcement learning
-- **Full-stack:** Next.js, React, Python, Java, databases, APIs, and cloud infrastructure
-- **Other:** Game development, crypto, and creative production
+- AI Companion: https://github.com/dimitri-sky/AI-Demo
+- Almighty Candle: https://almightycandle.com  
+  Repository: https://github.com/dimitri-sky/AlCaFlask
+- Chappy AI: https://chappyai.streamlit.app  
+  Repository: https://github.com/dimitri-sky/ChappyAI
+- College of DuPage Computer Science Club: https://github.com/cod-cs-club/codcsclub
+- GitHub organization: https://github.com/cod-cs-club
+- Discord community: https://discord.gg/uzBEgApK9K
 
-# Media
+<h1>Joke:</h1>
 
-- [Personal Website](https://www.dimitars.com/)
-- [X](https://x.com/dimitriatx)
-- [LinkedIn](https://www.linkedin.com/in/dimitarstojanovski/)
-- [Medium](https://medium.com/@dimitarsdev)
-- [Hugging Face](https://huggingface.co/dimitars)
-
-# Earlier Projects
-
-- [AI Companion](https://github.com/dimitri-sky/AI-Demo) — Solo
-- [Almighty Candle](https://almightycandle.com) — Team Lead · [Repository](https://github.com/dimitri-sky/AlCaFlask)
-- [Chappy AI](https://chappyai.streamlit.app) — Solo · [Repository](https://github.com/dimitri-sky/ChappyAI)
-- [College of DuPage Computer Science Club](https://github.com/cod-cs-club/codcsclub) — [Organization](https://github.com/cod-cs-club) · [Discord](https://discord.gg/uzBEgApK9K)
-
-# Joke
-
-I used to have ten jokes on my GitHub to make people laugh. No pun in ten did.
+I used to have 10 jokes on my GitHub to make people laugh. No pun in ten did.
